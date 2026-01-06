@@ -1,0 +1,13 @@
+Algorithm: Merge Sort
+
+Input:
+Size: 7
+Elements: 38 27 43 3 9 82 10
+
+Expected Output:
+Sorted Array: 3 9 10 27 38 43 82
+
+Expected Complexity:
+Best: O(n log n)
+Average: O(n log n)
+Worst: O(n log n)
