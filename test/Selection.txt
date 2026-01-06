@@ -1,0 +1,13 @@
+Algorithm: Selection Sort
+
+Input:
+Size: 6
+Elements: 64 25 12 22 11 90
+
+Expected Output:
+Sorted Array: 11 12 22 25 64 90
+
+Expected Complexity:
+Best: O(n^2)
+Average: O(n^2)
+Worst: O(n^2)
