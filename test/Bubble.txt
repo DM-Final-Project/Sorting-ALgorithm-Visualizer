@@ -1,0 +1,13 @@
+Algorithm: Bubble Sort
+
+Input:
+Size: 5
+Elements: 5 4 3 2 1
+
+Expected Output:
+Sorted Array: 1 2 3 4 5
+
+Expected Complexity:
+Best: O(n)
+Average: O(n^2)
+Worst: O(n^2)
