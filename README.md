@@ -58,6 +58,19 @@ Each sorting step is visualized using text-based bars in the console.
 
 ---
 
+## 📁 Repository Structure Requirement
+
+This repository follows the required structure:
+
+- `data/`  
+  Contains sample input data for testing the program manually.
+
+- `test/`  
+  Contains test cases for each sorting algorithm, including:
+  - Input data
+  - Expected sorted output
+  - Time complexity reference
+
 ## ▶️ How to Run the Program
 
 ### Requirements
